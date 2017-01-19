@@ -88,4 +88,4 @@ def make_board(size):
 	return board
 
 if __name__ == "__main__":
-	app.run(host = "localhost", port = 2406, debug = True)
+	app.run(host = "localhost", port = 3000, debug = True)
