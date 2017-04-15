@@ -1,4 +1,4 @@
-# memory
+# Memory Card Game
 A simple memory game of cards written in Python Flask framework, Javascript, JQuery library, CSS and HTML.
 
 Make sure you have Python 3 and pip installed. If you do go ahead in the terminal and type in "pip install flask". After that type in "python app.py", open up any browser and type in "localhost:3000" to run the game.
